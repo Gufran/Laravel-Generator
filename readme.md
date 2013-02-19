@@ -12,6 +12,8 @@
 \____/\___|_| |_|\___|_|  \__,_|\__\___/|_|   
 </pre>
 
+> Important: Using Laravel 4? [Use this project instead](https://github.com/JeffreyWay/Laravel-4-Generators).
+
 **[View latest updates video](http://nettuts.s3.amazonaws.com/2089_laravel-generator/updates-to-laravel-generator-script.mov).**
 
 On its own, when running migrations, Laravel simply creates the specified file, and adds a bit of boilerplate code. It's then up to you to fill in the Schema and such. ...Well that's a pain.
